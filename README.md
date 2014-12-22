@@ -1,4 +1,0 @@
-nodeWebkitDemo
-==============
-
-node webkit demo
